@@ -2,6 +2,7 @@
 - IPTV scripts/keys
 - SL3000 playready API (200 $)
 - L1 CDMs (500 $)
-- payment: BTC, USDT, USDC, ETH, Binance gift cards, Binance ID
+- ChromeCdm 2830 API (30 $)
+- payment: BTC, USDT, USDC, ETH, Binance Gift Cards, BinanceID
 
 CONTANT US: amranyummari#0167 (discord)
